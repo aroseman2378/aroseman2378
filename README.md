@@ -18,6 +18,7 @@
 [![Otomia](https://img.shields.io/badge/Otomia.ai-Platform-0B0F19?style=for-the-badge&labelColor=0B0F19&color=4F7DF3)](https://otomia.ai)
 [![ReturnCatalyst](https://img.shields.io/badge/ReturnCatalyst.ai-Platform-0B0F19?style=for-the-badge&labelColor=0B0F19&color=8B5CF6)](https://www.returncatalyst.ai)
 [![VetPulse](https://img.shields.io/badge/MyVetPulse.com-Product-0B0F19?style=for-the-badge&labelColor=0B0F19&color=1FA98C)](https://myvetpulse.com)
+[![VetPulse.io](https://img.shields.io/badge/VetPulse.io-AI_Consulting-0B0F19?style=for-the-badge&labelColor=0B0F19&color=0F766E)](https://www.vetpulse.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0B0F19?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B0F19&color=0A66C2)](https://www.linkedin.com/in/adamroseman1/)
 
 </div>
