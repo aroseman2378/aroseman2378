@@ -28,11 +28,9 @@
 
 <div align="center">
 
-## The graph above is not empty by accident
+## 5,097 contributions this year. Zero of them public.
 
-**5,097 contributions in the last twelve months · 287 active days · a 57-day streak**
-
-Every one of them private — production systems for clients under NDA.
+**287 active days · a 57-day streak · every square a production system under NDA**
 
 *There are a great many people talking about AI.*
 *My time goes into systems that are robust, that scale, and that return more than they cost.*
