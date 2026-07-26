@@ -4,6 +4,12 @@
 
 ### Founder, **Otomat** — an AI agency that ships production systems
 
+<br>
+
+## I build for private equity. I build for enterprises. I build for myself.
+
+**From funded startups → billion-dollar enterprises → multi-billion-dollar PE firms.**
+
 *Private equity operator turned builder. I find expensive market inefficiencies and remove them with AI.*
 
 <br>
@@ -47,8 +53,8 @@ Every one of them private — production systems for clients under NDA.
 |:---:|:---:|:---:|:---:|
 | **~11,300** | **~2.7M** | **39** | **13** |
 | commits | lines of production source | repositories | industries |
-| **11** | **8,000+** | **900+** | **287** |
-| AI providers integrated | CI workflow runs | pull requests | active days this year |
+| **350+** | **8,000+** | **900+** | **287** |
+| AI agents & skills deployed | CI workflow runs | pull requests | active days this year |
 
 </div>
 
@@ -74,7 +80,7 @@ A deal team re-reading the same CIM. A marketing org producing at linear cost.
 |:---|:---|:---|
 | **[Otomia](https://otomia.ai)** | End-to-end AI digital analytics, content & marketing platform. Multi-tenant, agent-orchestrated, evals wired into CI. | 🟢 In production |
 | **[VetPulse](https://myvetpulse.com)** | Clinical AI for veterinary practice. Web + mobile, paying subscribers. | 🟢 In production |
-| **[VetPulse.ai](https://www.vetpulse.ai)** | AI consulting practice. | 🟢 Active |
+| **[VetPulse.io](https://www.vetpulse.io)** | AI consulting practice. | 🟢 Active |
 | **[ReturnCatalyst](https://www.returncatalyst.ai)** | GP deal intelligence & portfolio monitoring. 87 specialized agents, retrieval-graded RAG, nightly eval sweeps. | 🟢 In production |
 | **SteadyIQ** | Benefits eligibility — income, work-requirement and asset verification with audit trails. | 🟢 In production |
 
@@ -106,9 +112,8 @@ Dozens of specialized subagents with scoped tools, run under deterministic workf
 rather than model-directed chains.
 
 **🔀 Model-agnostic by design.**
-Anthropic, OpenAI and Google all run as first-class providers, with specialist models
-where they win. Provider choice is a per-workload engineering decision backed by evals —
-not a vendor commitment.
+Open-weight and frontier models both run in production. Model choice is a per-workload
+engineering decision backed by evals — never a vendor commitment.
 
 **📐 Domain-grounded, not hallucinated.**
 Semantic layers and canonical-fact resolution, so a claim about a deal or a covenant
@@ -123,22 +128,32 @@ traces to a source — never to a guess.
 
 <div align="center">
 
-![Anthropic](https://img.shields.io/badge/Anthropic-7_repos-0B0F19?style=flat-square&labelColor=0B0F19&color=D97757)
-![OpenAI](https://img.shields.io/badge/OpenAI-4_repos-0B0F19?style=flat-square&labelColor=0B0F19&color=10A37F)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini_/_Vertex-9_repos-0B0F19?style=flat-square&labelColor=0B0F19&color=4285F4)
-![ElevenLabs](https://img.shields.io/badge/ElevenLabs-3_repos-0B0F19?style=flat-square&labelColor=0B0F19&color=8B5CF6)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-2_repos-0B0F19?style=flat-square&labelColor=0B0F19&color=E07B39)
-![Pinecone](https://img.shields.io/badge/Pinecone-2_repos-0B0F19?style=flat-square&labelColor=0B0F19&color=1FA98C)
-![Deepgram](https://img.shields.io/badge/Deepgram-STT-0B0F19?style=flat-square&labelColor=0B0F19&color=13EF93)
-![Groq](https://img.shields.io/badge/Groq-Inference-0B0F19?style=flat-square&labelColor=0B0F19&color=F55036)
-![Cohere](https://img.shields.io/badge/Cohere-Rerank-0B0F19?style=flat-square&labelColor=0B0F19&color=39594D)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-0B0F19?style=flat-square&labelColor=0B0F19&color=FFD21E)
-![ColBERT](https://img.shields.io/badge/ColBERT-Rerank-0B0F19?style=flat-square&labelColor=0B0F19&color=6366F1)
+### **Open source to frontier. First adopter on all of them.**
+
+**The right model for the right action — decided per workload, inside every repo.**
 
 </div>
 
-*Counts reflect **declared SDK dependencies** — code that actually calls these providers,
-not names in a config file.*
+<br>
+
+<div align="center">
+
+| | |
+|:---:|:---:|
+| **150+** | **200+** |
+| specialized AI agents built | skills built and deployed |
+
+**Hundreds of agents and skills, in production.**
+
+</div>
+
+I don't have a preferred vendor. Frontier models and open-weight models both run in
+production across my systems, chosen per workload and validated by evals — reasoning models
+where reasoning pays for itself, small fast models where latency and cost decide it,
+specialist models for voice, transcription, reranking and embeddings.
+
+When a new model ships, I'm testing it that week. Being early is not a hobby here — it is
+how you find the capability jump before your competitors price it in.
 
 **Modalities shipped:** text generation · RAG & retrieval · voice/TTS · speech-to-text ·
 vision & OCR · video · embeddings & vector search · structured extraction ·
