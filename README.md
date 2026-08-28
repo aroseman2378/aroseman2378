@@ -10,7 +10,7 @@
 
 **From funded startups → billion-dollar enterprises → multi-billion-dollar PE firms.**
 
-*Private equity operator turned builder. I find expensive market inefficiencies and remove them with AI.*
+*Private equity operator and Startup CEO turned builder. I find expensive market inefficiencies and remove them with AI.*
 
 <br>
 
