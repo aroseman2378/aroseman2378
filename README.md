@@ -194,6 +194,8 @@ multi-agent orchestration · automated evaluation
 **12+ years** in investment banking and private equity across the **US, Europe and Asia**.
 **A decade** as founder & CEO of data- and AI-enabled enterprises.
 
+AdAge Global 40 under 40, top 100 Fintech CEOs, Founder & CEO of INC 5000 #7 ik financial services and #86 overall.
+
 That range means I read an unfamiliar business the way an operating partner does — fast —
 and then I ship the software myself. Most people in AI can do one of those. The value is in the overlap.
 
